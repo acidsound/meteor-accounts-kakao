@@ -11,7 +11,7 @@ Package.onUse(function(api) {
   api.use('accounts-base', ['client', 'server']);
   api.imply('accounts-base', ['client', 'server']);
   api.use('accounts-oauth', ['client', 'server']);
-  api.use('spectrum:kakao@0.0.1', ['client', 'server']);
+  api.use('spectrum:kakao@0.0.3', ['client', 'server']);
 
   api.addFiles('kakao_login_button.css', 'client');
 
