@@ -1,6 +1,6 @@
 Package.describe({
   name: "spectrum:accounts-kakao",
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Login service for Kakao',
   git: 'https://github.com/acidsound/meteor-accounts-kakao',
   documentation: 'README.md'
